@@ -23,7 +23,7 @@ public class AmendmentCompleted {
     public AmendmentCompleted(){
         
     }
-    
+    //Ankita commented here
     /*SNF-269 refactoring here
     Refactor code for new Amendment Flow. SNF-269*/
 
